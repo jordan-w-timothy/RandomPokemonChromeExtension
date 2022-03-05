@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    align-items: center;
+}
+
+
+
+#popupDiv {
+    height: 100%;
+    width: 300px;
+    align-items: center;
+   
+}
+
+#randomBtn {
+    padding: 20px;
+    border-color: red;
+    display: block;
+    margin: auto;
+    border-radius: 20%;
+    background-color: gold;
+    
+}
+#imageBox{
+    
+}
+
+#pokeImg {
+    display: block;
+    margin: auto;
+    
+}
+
+#nameText {
+    text-align: center;
+}

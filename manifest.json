@@ -1,0 +1,21 @@
+{
+    "name": "Random Pokemon Generator",
+    "description": "Generate a random pokemon.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+      "service_worker": "scripts/main.js"
+    },
+    "action": {
+        "default_popup": "popup/index.html",
+        "default_icon": {
+            "16": "/images/ball-nobacklarge.png"
+          }
+    },
+    "icons": {
+        "16": "/images/ball-nobacklarge.png",
+        "32": "/images/ball-nobacklarge.png",
+        "48": "/images/ball-nobacklarge.png",
+        "128": "/images/ball-nobacklarge.png"
+    }
+  }
